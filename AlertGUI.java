@@ -8,7 +8,7 @@ import javax.swing.*;
 class AlertGUI extends JFrame {
 
 	// Size of the window
-	final int FRAME_WIDTH = 300, FRAME_HEIGHT = 150;
+	final int FRAME_WIDTH = 300, FRAME_HEIGHT = 170;
 
 	// Initializing components
 	JLabel alertLabel = new JLabel("Set username");

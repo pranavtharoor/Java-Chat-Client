@@ -10,7 +10,7 @@ import javax.swing.*;
 class SetUserGUI extends JFrame {
 	
 	// Size of the window
-	final int FRAME_WIDTH = 300, FRAME_HEIGHT = 210;
+	final int FRAME_WIDTH = 300, FRAME_HEIGHT = 260;
 
 	// Initializing components
 	JTextField usernameInput = new JTextField();
